@@ -10,3 +10,4 @@ desktop.ini
 
 # local env files
 .env.local
+.env.production.local
